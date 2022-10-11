@@ -8,7 +8,12 @@ This repo contains the code for the paper.
 
 ### Cite
 ```
-
+@article{liu2022conformalized,
+  title={Conformalized Fairness via Quantile Regression},
+  author={Liu, Meichen and Ding, Lei and Yu, Dengdeng and Liu, Wulong and Kong, Linglong and Jiang, Bei},
+  journal={arXiv preprint arXiv:2210.02015},
+  year={2022}
+}
 ```
 
 ---
