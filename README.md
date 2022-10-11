@@ -2,7 +2,7 @@
 
 ## Conformalized Fairness via Quantile Regression (Neurips 2022)
 
-This repo contains the code for the paper.
+This repo contains the code for the paper. ArXiv link: https://arxiv.org/abs/2210.02015
 
 
 
