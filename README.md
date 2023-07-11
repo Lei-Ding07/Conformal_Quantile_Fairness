@@ -11,7 +11,9 @@ This repo contains the code for the paper. ArXiv link: https://arxiv.org/abs/221
 @article{liu2022conformalized,
   title={Conformalized Fairness via Quantile Regression},
   author={Liu, Meichen and Ding, Lei and Yu, Dengdeng and Liu, Wulong and Kong, Linglong and Jiang, Bei},
-  journal={arXiv preprint arXiv:2210.02015},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={11561--11572},
   year={2022}
 }
 ```
